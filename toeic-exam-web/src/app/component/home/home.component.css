@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+  font-family: 'Poppins', sans-serif;
+}
+.header-bg {
+  background: linear-gradient(to bottom, #FEFEFE, #FEFEFE, #d0d0c9);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.header-title {
+  font-size: 48px;
+  color: #FF0000;
+}
+
+.header-image {
+  background-image: url("src/assets/headerLogo.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 400px;
+  position: relative;
+}

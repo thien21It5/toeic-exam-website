@@ -1,0 +1,26 @@
+.logo-text1 {
+  font-family: "Arial", sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff; /* Màu chữ */
+  text-transform: uppercase;
+}
+
+.logo-text2 {
+  font-family: "Arial", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffc107; /* Màu chữ */
+  text-transform: lowercase;
+}
+
+.navbar .dropdown-menu {
+  float: none;
+  min-width: 200px;
+  padding: 0;
+  top: 49px;
+}
+
+/*------------Body----------------*/
+
+
